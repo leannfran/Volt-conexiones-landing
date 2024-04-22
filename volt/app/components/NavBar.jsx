@@ -25,10 +25,10 @@ export default function NavBar() {
     <header className="text-gray-600 body-font">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <nav className="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto text-white">
-          <a className="mr-5 font-bold hover:border-b-2 border-cyan-500 cursor-pointer">Inicio</a>
-          <a className="mr-5 font-bold hover:border-b-2 border-cyan-500 cursor-pointer">Servicios</a>
-          <a className="mr-5 font-bold hover:border-b-2 border-cyan-500 cursor-pointer">Portafolio</a>
-          <a className="font-bold hover:border-b-2 border-cyan-500 cursor-pointer">Contactanos</a>
+          <a className="mr-5 font-light hover:border-b-2 border-cyan-500 cursor-pointer">Inicio</a>
+          <a className="mr-5 font-light hover:border-b-2 border-cyan-500 cursor-pointer">Servicios</a>
+          <a className="mr-5 font-light hover:border-b-2 border-cyan-500 cursor-pointer">Portafolio</a>
+          <a className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">Contactanos</a>
         </nav>
         <a href="./" className="flex order-first lg:order-none lg:w-1/5 title-font font-medium items-center text-gray-900 lg:items-center lg:justify-center mb-4 md:mb-0">
             <img src="./logo.png" className="w-64 lg:w-50 xl:w-50" alt="Logo VoltConexiones" />
