@@ -1,31 +1,11 @@
 import Hero from "./components/Hero.jsx"
+import Statistic from "./components/Statistic.jsx"
 
 export default function Home() {
   return (
     <>
       <Hero />
-      <section className="text-gray-600 body-font">
-        <div className="container px-5 py-24 mx-auto">
-          <div className="flex flex-wrap -m-4 text-center">
-            <div className="p-4 sm:w-1/4 w-1/2">
-              <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">10+ Años</h2>
-              <p className="leading-relaxed">Experiencia</p>
-            </div>
-            <div className="p-4 sm:w-1/4 w-1/2">
-              <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">500+</h2>
-              <p className="leading-relaxed">Proyectos Completados</p>
-            </div>
-            <div className="p-4 sm:w-1/4 w-1/2">
-              <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">300+</h2>
-              <p className="leading-relaxed">Clientes Satisfechos</p>
-            </div>
-            <div className="p-4 sm:w-1/4 w-1/2">
-              <h2 className="title-font font-medium sm:text-4xl text-3xl text-gray-900">100%</h2>
-              <p className="leading-relaxed">Clientes que recomiendan</p>
-            </div>
-          </div>
-        </div>
-      </section>
+      <Statistic />
       <section className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
           <div className="text-center mb-20">
