@@ -31,9 +31,9 @@ body {
 }
 
 .bg-thundert {
-  background-image: url("/volt/public/images/thunder.webp");
+  background-image: url("/images/thunder.webp");
   background-position: center center;
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
 }
 
