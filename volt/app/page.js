@@ -69,42 +69,11 @@ export default function Home() {
               </div>
             </div>
           </div>
-
         </div>
       </section>
       <Team />
-
-<SocialMedia />
-
+      <SocialMedia />
       <ContactUs />
-
-      <footer className="text-gray-600 body-font">
-        <div className="container px-5 py-24 mx-auto">
-          <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4">
-            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CATEGORIES</h2>
-              <nav className="list-none mb-10">
-                <li><a className="text-gray-600 hover:text-gray-800">First Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Second Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Third Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Fourth Link</a></li>
-              </nav>
-            </div>
-            <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-              <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">QUICK LINKS</h2>
-              <nav className="list-none mb-10">
-                <li><a className="text-gray-600 hover:text-gray-800">First Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Second Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Third Link</a></li>
-                <li><a className="text-gray-600 hover:text-gray-800">Fourth Link</a></li>
-              </nav>
-            </div>
-            // Más enlaces y componentes...
-          </div>
-        </div>
-      </footer>
-
-
     </>
   );
 }
