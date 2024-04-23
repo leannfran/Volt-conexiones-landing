@@ -3,7 +3,6 @@ import Statistic from "./components/Statistic.jsx"
 import OurServices from "./components/OurServices.jsx"
 import WorkDone from "./components/WorkDone.jsx";
 import Team from "./components/Team.jsx"
-import CardGlass from "./components/CardGlass.jsx"
 
 export default function Home() {
   return (
@@ -12,10 +11,9 @@ export default function Home() {
       <Statistic />
       <OurServices />
       <WorkDone />
-      <Team />
-      <CardGlass />
       
-      <section class="text-gray-600 body-font">
+      
+      <section class="text-gray-600 body-font p-4">
         <div class="container px-5 pb-24 mx-auto flex flex-wrap">
           <div class="flex flex-wrap md:-m-2 -m-1">
             <div class="flex flex-wrap w-1/2">
@@ -74,7 +72,7 @@ export default function Home() {
 
         </div>
       </section>
-
+      <Team />
 
 
 
