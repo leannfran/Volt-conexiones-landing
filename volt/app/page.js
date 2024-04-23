@@ -3,6 +3,7 @@ import Statistic from "./components/Statistic.jsx"
 import OurServices from "./components/OurServices.jsx"
 import WorkDone from "./components/WorkDone.jsx";
 import Team from "./components/Team.jsx"
+import SocialMedia from "./components/SocialMedia.jsx"
 
 export default function Home() {
   return (
@@ -74,7 +75,7 @@ export default function Home() {
       </section>
       <Team />
 
-
+<SocialMedia />
 
       <section className="text-gray-600 body-font relative">
         <div className="container px-5 py-24 mx-auto flex sm:flex-nowrap flex-wrap">
@@ -112,34 +113,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-
-      
-
-      <section className="bg-gray-100">
-        <div className="container mx-auto px-5 py-24">
-          <div className="text-center mb-20">
-            <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-4">Síguenos en Redes Sociales</h1>
-            <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-500">Mantente actualizado con las últimas noticias y proyectos de Volt Conexiones siguiéndonos en nuestras redes sociales.</p>
-          </div>
-          <div className="flex justify-center">
-            <a href="https://facebook.com/yourpage" target="_blank" class="m-2">
-              <img src="https://dummyimage.com/50x50" alt="Facebook" class="w-12 h-12 rounded-full" />
-            </a>
-            <a href="https://twitter.com/yourpage" target="_blank" class="m-2">
-              <img src="https://dummyimage.com/50x50" alt="Twitter" class="w-12 h-12 rounded-full" />
-            </a>
-            <a href="https://instagram.com/yourpage" target="_blank" class="m-2">
-              <img src="https://dummyimage.com/50x50" alt="Instagram" class="w-12 h-12 rounded-full" />
-            </a>
-            <a href="https://linkedin.com/company/yourpage" target="_blank" class="m-2">
-              <img src="https://dummyimage.com/50x50" alt="LinkedIn" class="w-12 h-12 rounded-full" />
-            </a>
-          </div>
-        </div>
-      </section>
-
-
 
       <footer className="text-gray-600 body-font">
         <div className="container px-5 py-24 mx-auto">
