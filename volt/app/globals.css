@@ -37,6 +37,14 @@ body {
   background-repeat: no-repeat;
 }
 
+.bg-blue-volt {
+  background-color: #253ff6;
+}
+
+.bg-cyan-custom {
+  background-color: #24f5ec;
+}
+
 .card-glass {
   background: rgba(255, 255, 255, 0.2);
   border-radius: 16px;
