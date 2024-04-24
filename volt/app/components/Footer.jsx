@@ -24,22 +24,22 @@ export default function Footer() {
             </h2>
             <nav className="list-none mb-10">
               <li>
-                <a className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
+                <a href="./" className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
                   Inicio
                 </a>
               </li>
               <li>
-                <a className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
+                <a href="#OurServices" className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
                   Servicios
                 </a>
               </li>
               <li>
-                <a className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
+                <a href="#WorkDone" className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
                   Portafolio
                 </a>
               </li>
               <li>
-                <a className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
+                <a href="#ContactUs" className="font-light hover:border-b-2 border-cyan-500 cursor-pointer">
                   Contactanos
                 </a>
               </li>
