@@ -29,8 +29,8 @@ export default function Hero() {
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
             className="object-cover object-center rounded"
-            alt="hero"
-            src="https://dummyimage.com/720x600/F3F4F7/8693ac"
+            alt="Trabajos de VoltConexiones"
+            src="./images/Hero.webp"
           />
         </div>
       </div>
