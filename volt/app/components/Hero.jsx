@@ -28,7 +28,7 @@ export default function Hero() {
                 <SlEnergy className="mt-1 me-2 hover:text-yellow-400" />
                 Descubre Más
               </a>
-              <a className="ml-0 md:ml-4 mt-4 md:mt-0 uppercase rounded-full inline-flex border-0 py-2 px-6 focus:outline-none bg-cyan-500 rounded text-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:text-black hover:font-bold font-bold">
+              <a className="ml-0 md:ml-4 mt-4 md:mt-0 uppercase rounded-full inline-flex border-0 py-2 px-6 focus:outline-none bg-cyan-500 text-lg transition duration-300 ease-in-out transform hover:-translate-y-1 hover:text-black hover:font-bold font-bold">
                 <GoLightBulb className="mt-1 me-2 hover:text-yellow-400" />
                 Contáctanos
               </a>
