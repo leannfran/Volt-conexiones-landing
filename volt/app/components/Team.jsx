@@ -5,7 +5,7 @@ import { SlSocialTwitter } from "react-icons/sl";
 
 export default function Team() {
   return (
-    <section className="text-gray-600 body-font p-5 mx-auto">
+    <section className="text-gray-600 body-font p-5 mx-auto bg-blue-volt">
       <div className="container px-5 pt-24 pb-5 mx-auto">
         <div className="text-center mb-20">
           <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900">

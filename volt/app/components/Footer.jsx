@@ -4,7 +4,7 @@ import { SiWhatsapp } from "react-icons/si";
 
 export default function Footer() {
   return (
-    <footer className="text-gray-600 body-font">
+    <footer className="text-gray-600 body-font bg-blue-volt">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
