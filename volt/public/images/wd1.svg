@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1600"
+   height="600"
+   viewBox="0 0 1600 198"
+   fill="none"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="wd1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.916875"
+     inkscape:cx="799.45467"
+     inkscape:cy="300.47716"
+     inkscape:window-width="1680"
+     inkscape:window-height="973"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4" />
+  <g
+     clip-path="url(#clip0)"
+     id="g4"
+     style="fill:#ffff00">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="M1600 76.9996C1289 76.9996 1190.1 198.25 789 198C389 198 289 76.9996 0 76.9996V-0.00038147H1600C1600 -0.00038147 1600 47.9996 1600 76.9996Z"
+       fill="#2196F3"
+       id="path2"
+       style="fill:#253ff1;fill-opacity:1" />
+  </g>
+  <defs
+     id="defs9">
+    <clipPath
+       id="clip0">
+      <rect
+         width="1600"
+         height="600"
+         fill="white"
+         id="rect6" />
+    </clipPath>
+  </defs>
+</svg>
