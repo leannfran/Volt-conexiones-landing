@@ -22,7 +22,7 @@ export default function NavBar() {
     setShowMenu(!showMenu);
   };
   return (
-    <header className="text-gray-600 body-font">
+    <header className="text-gray-600 body-font bg-blue-volt">
       <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <nav className="flex lg:w-2/5 flex-wrap items-center text-base md:ml-auto text-white">
           <a href="./" className="mr-5 font-light hover:border-b-2 border-cyan-500 cursor-pointer">Inicio</a>
