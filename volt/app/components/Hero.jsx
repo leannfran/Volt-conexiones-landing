@@ -17,13 +17,13 @@ export default function Hero() {
             soluciones a las necesidades específicas de tu negocio, asegurando
             un servicio eficiente y de máxima calidad.
           </p>
-          <div className="flex justify-center align-middle">
-            <button className="uppercase btn-glass-pill inline-flex border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-lg transition duration-300 ease-in-out transform hover:-translate-y-1">
+          <div className="grid grid-flow-row grid-cols-1 sm:grid-cols-2 text-center">
+            <a className="uppercase btn-glass-pill inline-flex border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-lg transition duration-300 ease-in-out transform hover:-translate-y-1">
             <SlEnergy className="mt-1 me-2" />Descubre Más
-            </button>
-            <button className="uppercase btn-glass-pill ml-4 inline-flex border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-lg transition duration-300 ease-in-out transform hover:-translate-y-1">
+            </a>
+            <a className="ml-0 md:ml-4 mt-4 md:mt-0 uppercase btn-glass-pill inline-flex border-0 py-2 px-6 focus:outline-none hover:bg-cyan-500 rounded text-lg transition duration-300 ease-in-out transform hover:-translate-y-1">
             <GoLightBulb className="mt-1 me-2"/>Contáctanos
-            </button>
+            </a>
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
