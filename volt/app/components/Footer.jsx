@@ -4,7 +4,7 @@ import { SiWhatsapp } from "react-icons/si";
 
 export default function Footer() {
   return (
-    <footer className="text-gray-600 body-font bg-blue-volt">
+    <footer className="text-black body-font bg-blue-volt">
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-wrap md:text-left text-center -mb-10 -mx-4">
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
@@ -14,12 +14,12 @@ export default function Footer() {
                 alt="Logo VoltConexiones"
               />
             </a>
-            <p class="text-sm text-center text-gray-600 pt-3">
+            <p class="text-sm text-center text-black pt-3">
               © 2024, Todos los derechos reservados
             </p>
           </div>
           <div className="lg:w-1/4 md:w-1/2 w-full px-4 pt-4 lg:pt-0 xl:pt-0">
-            <h2 className="title-font font-medium text-white tracking-widest text-sm mb-3">
+            <h2 className="title-font font-bold text-white tracking-widest text-sm mb-3">
               MENÚ
             </h2>
             <nav className="list-none mb-10">
@@ -46,7 +46,7 @@ export default function Footer() {
             </nav>
           </div>
           <div className="lg:w-1/4 md:w-1/2 w-full px-4">
-            <h2 className="title-font font-medium text-white tracking-widest text-sm mb-3">
+            <h2 className="title-font font-bold text-white tracking-widest text-sm mb-3">
               REDES SOCIALES
             </h2>
             <div className="gap-4 lg:w-2/5 inline-flex lg:justify-end lg:ml-0 pt-5 lg:pt-0 xl:pt-0">

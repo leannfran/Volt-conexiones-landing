@@ -5,8 +5,8 @@ export default function OurServices() {
     <section id="OurServices" className="text-gray-600 body-font bg-blue-volt">
       <div className="container px-5 py-24 mx-auto">
         <div className="text-center mb-20">
-          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900">
-            Nuestros Servicios
+          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-white">
+            <span class="border-black border-b-4">Nuestros</span> Servicios
           </h2>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-400">
             Explora la variedad de servicios eléctricos que ofrecemos, diseñados

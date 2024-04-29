@@ -8,8 +8,8 @@ export default function Team() {
     <section className="text-gray-600 body-font p-5 mx-auto bg-blue-volt">
       <div className="container px-5 pt-24 pb-5 mx-auto">
         <div className="text-center mb-20">
-          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900">
-            Conoce a Nuestro Equipo
+          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-white">
+            <span class="border-black border-b-4">Conocé</span> a Nuestro Equipo
           </h2>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-400">
             Nuestro equipo está compuesto por profesionales altamente

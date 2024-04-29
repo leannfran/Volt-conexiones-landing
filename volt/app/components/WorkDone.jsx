@@ -5,7 +5,8 @@ export default function WorkDone() {
         <section id="WorkDone" className="text-gray-600 body-font">
         <div className="container px-5 pt-24 pb-5 mx-auto">
           <div className="text-center mb-20">
-          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900">Trabajos Realizados</h2>
+          <h2 class="sm:text-3xl text-2xl font-bold title-font mb-4 text-gray-900">
+          <span class="border-black border-b-4">Trabajos</span> Realizados</h2>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto text-gray-400">Un vistazo a algunos de nuestros proyectos más destacados y lo que nuestros clientes tienen que decir sobre ellos.</p>
           </div>
           <div className="flex flex-wrap -m-4">
